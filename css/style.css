@@ -194,12 +194,14 @@ li a[class="active"].nav-link::before,
 .actions .btn {
   background: #198754;
   border-color: #198754;
+  border-bottom: 4px solid #16603e;
   color: #fff;
   margin: 0 0.5rem;
 }
 .actions .btn:hover {
   background: #135d3b;
   border-color: #135d3b;
+  border-bottom: 4px solid #0e3e28;
 }
 @media (max-width: 992px) {
   .landing .info {
